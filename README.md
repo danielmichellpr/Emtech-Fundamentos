@@ -1,2 +1,2 @@
 # Emtech_Fundamentos
-Proyecto Final Emtech - Fundamentos de Programación
+Proyecto Introducción a Python - Emtech - Fundamentos de Programación
